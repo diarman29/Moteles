@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListarClientes2</string>
+    <string name="action_settings">Settings</string>
+    <string name="listar">Listar Clientes</string>
+    <string name="crear">Crear Cliente</string>
+    <string name="eliminar">Elimiar Cliente</string>
+    <string name="codigo">Codigo Cliente</string>
+    <string name="nombre">Nombre Cliente</string>
+    <string name="title_activity_crear_cliente">CrearCliente</string>
+    <string name="title_activity_borrar_cliente">BorrarCliente</string>
+</resources>
